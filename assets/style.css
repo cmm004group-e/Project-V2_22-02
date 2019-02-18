@@ -1,0 +1,19 @@
+main article img{
+    width: 100%;
+}
+thumbnail{
+    padding: 0 0 20px 0px;
+    border: none;
+    border-radius: 0;
+
+}
+
+firstarticle{
+    width: 400px;
+    height: 470px;
+}
+
+secondarticle{
+    width: 400px;
+    height: 470px;
+}
